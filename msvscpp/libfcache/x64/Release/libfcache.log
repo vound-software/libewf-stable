@@ -1,0 +1,7 @@
+﻿  libfcache_cache.c
+  libfcache_cache_value.c
+  libfcache_date_time.c
+  libfcache_error.c
+  libfcache_support.c
+  Generating Code...
+  libfcache.vcxproj -> D:\code\3.sdks-and-libs\vound-github\libewf-stable\msvscpp\x64\Release\libfcache.lib

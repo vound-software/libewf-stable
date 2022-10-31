@@ -1,0 +1,6 @@
+﻿  libclocale_codepage.c
+  libclocale_locale.c
+  libclocale_support.c
+  libclocale_wide_string.c
+  Generating Code...
+  libclocale.vcxproj -> D:\code\3.sdks-and-libs\vound-github\libewf-stable\msvscpp\x64\Release\libclocale.lib

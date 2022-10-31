@@ -1,0 +1,5 @@
+﻿  libcerror_error.c
+  libcerror_support.c
+  libcerror_system.c
+  Generating Code...
+  libcerror.vcxproj -> D:\code\3.sdks-and-libs\vound-github\libewf-stable\msvscpp\x64\Release\libcerror.lib
